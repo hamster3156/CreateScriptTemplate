@@ -1,0 +1,2 @@
+# GenerateScriptTemplate
+テンプレートを元にスクリプトを生成するエディタ拡張です!
