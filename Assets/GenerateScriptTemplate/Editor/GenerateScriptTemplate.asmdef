@@ -1,5 +1,5 @@
 {
-    "name": "Generate Script Template",
+    "name": "hamster.GenerateScriptTemplate.Editor",
     "rootNamespace": "hamster.Editor",
     "references": [],
     "includePlatforms": [
