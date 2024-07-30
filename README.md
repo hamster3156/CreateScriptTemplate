@@ -9,4 +9,4 @@ https://github.com/hamster3156/GenerateScriptTemplate.git?path=Assets/GenerateSc
 https://qiita.com/game_hamster/items/d349fb7ca3c00b54abfd
 
 - UnityPackageのダウンロード  
-[こちらを押してください！](https://github.com/hamster3156/GenerateScriptTemplate/blob/main/GenerateScriptTemplate.1.0.0.unitypackage)
+[こちらを押してください！]([https://github.com/hamster3156/GenerateScriptTemplate/blob/main/GenerateScriptTemplate.1.0.0.unitypackage](https://github.com/hamster3156/GenerateScriptTemplate/raw/main/GenerateScriptTemplate.1.0.0.unitypackage))
