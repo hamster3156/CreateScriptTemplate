@@ -1,6 +1,6 @@
 {
-    "name": "hamster.GenerateScriptTemplate.Editor",
-    "rootNamespace": "hamster.Editor",
+    "name": "Hamster.GenerateScriptTemplate.Editor",
+    "rootNamespace": "Hamster.Editor",
     "references": [],
     "includePlatforms": [
         "Editor"

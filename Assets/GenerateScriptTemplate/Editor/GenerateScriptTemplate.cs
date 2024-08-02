@@ -1,7 +1,7 @@
 using UnityEditor;
 using UnityEngine;
 
-namespace hamster.Editor
+namespace Hamster.Editor
 {
     static internal class GenerateScriptTemplate
     {
