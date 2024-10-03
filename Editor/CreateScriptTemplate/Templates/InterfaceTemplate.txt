@@ -1,0 +1,8 @@
+// Interface Template
+
+#ROOTNAMESPACEBEGIN#
+public interface #SCRIPTNAME#
+{
+    public void SampleMethod();
+}
+#ROOTNAMESPACEEND#

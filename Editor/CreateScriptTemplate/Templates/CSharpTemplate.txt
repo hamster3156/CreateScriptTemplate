@@ -1,0 +1,11 @@
+// C# Class Template
+
+#ROOTNAMESPACEBEGIN#
+sealed internal class #SCRIPTNAME#
+{
+    public #SCRIPTNAME#()
+	{
+	     // Constructor
+	}
+}
+#ROOTNAMESPACEEND#
