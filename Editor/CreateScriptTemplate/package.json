@@ -1,0 +1,18 @@
+{
+  "name": "com.hamster.Editor",
+  "displayName": "Create Script Template",
+  "version": "1.0.1",
+  "description": "https://github.com/hamster3156/CreateScriptTemplate",
+  "author": {
+    "name": "hamster",
+    "email": "hmu3156@gmail.com",
+    "url": "https:hamster//github.com/hamster3156"
+  },
+
+  "keywords": [
+    "Editor"
+  ],
+
+  "dependencies": {
+  }
+}
