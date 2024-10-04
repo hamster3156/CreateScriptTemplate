@@ -17,6 +17,6 @@ https://github.com/hamster3156/CreateScriptTemplate/releases/tag/unitypackage
 ![image](https://github.com/user-attachments/assets/c87bfac5-6b6a-4f8c-be26-450b32360fc9)
 
 
-# アウトプットした記事
+# アウトプットで作成した記事
 少し古いですが、詳細に機能説明をしているのでぜひご確認ください！\
 https://qiita.com/game_hamster/items/d349fb7ca3c00b54abfd
