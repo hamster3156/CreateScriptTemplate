@@ -1,7 +1,7 @@
 // Class Template
 
 #ROOTNAMESPACEBEGIN#
-seald internal class #SCRIPTNAME# : MonoBehaviour
+sealed internal class #SCRIPTNAME# : MonoBehaviour
 {
     
 }
