@@ -1,5 +1,4 @@
 // ScriptableObject Template
-
 using UnityEngine;
 
 #ROOTNAMESPACEBEGIN#
