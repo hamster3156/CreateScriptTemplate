@@ -1,8 +1,17 @@
 // Class Template
+using UnityEngine;
 
 #ROOTNAMESPACEBEGIN#
 sealed internal class #SCRIPTNAME# : MonoBehaviour
 {
-    
+    void Start()
+    {
+
+    }
+
+    void Update()
+    {
+
+    }
 }
 #ROOTNAMESPACEEND#
