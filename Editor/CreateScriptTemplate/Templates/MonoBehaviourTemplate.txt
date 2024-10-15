@@ -1,4 +1,4 @@
-// Class Template
+// MonoBehaviour Template
 using UnityEngine;
 
 #ROOTNAMESPACEBEGIN#
